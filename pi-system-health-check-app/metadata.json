@@ -1,0 +1,6 @@
+{
+  "name": "PI System Health Check App",
+  "description": "A professional tool for generating structured PI System Health Check reports, featuring detailed hardware, software, networking, and performance checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
